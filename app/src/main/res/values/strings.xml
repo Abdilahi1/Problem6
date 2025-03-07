@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Problem6</string>
+    <string name="from" />
+    <string name="logo_app" />
+    <string name="Fitness" />
+    <string name="let_s_go">Let\'s go</string>
+    <string name="push_your_self_to_the_limit">PUSH YOUR SELF TO THE LIMIT</string>
+    <string name="abdi">Abdi</string>
+    <string name="we_have_new_challenge">We have new Challenge!</string>
+    <string name="_200_nstep">200\nStep</string>
+    <string name="join_challenge">Join Challenge</string>
+</resources>
